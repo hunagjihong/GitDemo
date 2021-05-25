@@ -3,7 +3,7 @@ wq
 
 hello hjh!hello git!
 hello hjh!hello git!
-hello hjh!hello git!
+hello hjh!hello git!hot-fix,first commit
 hello hjh!hello git!
 hello hjh!hello git!
 hello hjh!hello git!
